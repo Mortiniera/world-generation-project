@@ -1,4 +1,4 @@
-# Computer-Graphics---C-OpenGL
+# Computer-Graphics Software Project
 
 ## Authors : Thevoz Melik, Wagner Patrik, Mortiniera Thevie
 
