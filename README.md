@@ -1,4 +1,6 @@
-![second_screen](https://github.com/Mortiniera/world-generation-project/assets/17401882/59441b62-a7d8-4b84-a8ea-fd50ba9b281a)# Computer-Graphics Software Project
+![second_screen](https://github.com/Mortiniera/world-generation-project/assets/17401882/59441b62-a7d8-4b84-a8ea-fd50ba9b281a)# Computer-
+
+## World Generation - Graphics Software Project
 
 ## Authors : Thevoz Melik, Wagner Patrik, Mortiniera Thevie
 
