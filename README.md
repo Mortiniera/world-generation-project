@@ -26,7 +26,6 @@ a more natural general feel.
 
 Some Screenshots (Video demo can be found in the foloder Reports)
 ![first_screen](https://github.com/Mortiniera/world-generation-project/assets/17401882/dc3a3777-9312-408c-92a3-b87a459162c4)
-![second_screen](https://github.com/Mortiniera/world-generation-project/assets/17401882/24d484db-9c7d-4109-b86a-a6423d0c2a85)
 ![third_screen](https://github.com/Mortiniera/world-generation-project/assets/17401882/cb180e73-0599-4ee3-bc46-a090fd7ba914)
 
 
