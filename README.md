@@ -4,7 +4,9 @@
 
 ## Authors : Thevoz Melik, Wagner Patrik, Mortiniera Thevie
 
-Feature 1 : Terrain Generation ( generate a heightmap for a terrain on the GPU, and then render it)
+Main Features :
+
+- Feature 1 : Terrain Generation ( generate a heightmap for a terrain on the GPU, and then render it)
 
 - Feature 2 : Texturing, Sky modelling, Water modeling, Reflection/Refraction
 
